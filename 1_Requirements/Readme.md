@@ -11,7 +11,7 @@ The main heart of this traffic system is microcontroller. IR sensors are connect
 
 If you receive logic 0 from any of these sensors, we have to give the green signal to that particular path and give red signal to all other paths. Here continuously we have to monitor the IR sensors to check for the traffic.
 
-# BASIC COMPONENTS OF A CAR TEMPERATURE CONTROL
+# BASIC COMPONENTS OF A Density Based Traffic system
 ## HARDWARE
 
 ### Circuit Components:
@@ -39,7 +39,7 @@ VS CODE
 
 SIMULIDE
 
-# BASIC COMPONENTS OF A CAR TEMPERATURE CONTROL
+# BASIC COMPONENTS OF A Density Based Traffic system
 
 ## COMPONENTS
 
