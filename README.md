@@ -1,3 +1,11 @@
+# CODE QUALITY 
+
+![CODEQUALITY_1](https://user-images.githubusercontent.com/101269445/164974473-1ac68d77-7635-41cd-8307-3692e1b5e18a.svg)
+![CODEQUALITY_2](https://user-images.githubusercontent.com/101269445/164974507-c6ba6041-28d5-424b-93fb-5f324add5898.svg)
+![CODEQUALITY_3](https://user-images.githubusercontent.com/101269445/164974510-fa6da620-a503-4ae8-a154-58ed7662cf06.svg)
+
+
+
 # M2_Density_Based_Traffic_Light_System
 
 # INTRODUCTION
